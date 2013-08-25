@@ -4,6 +4,8 @@
   <classpathentry output="target\scala-2.9.1\test-classes" path="src\test\scala" kind="src"></classpathentry>
   <classpathentry output="target\scala-2.9.1\test-classes" path="src\test\java" kind="src"></classpathentry>
   <classpathentry path="org.scala-ide.sdt.launching.SCALA_CONTAINER" kind="con"></classpathentry>
+  <classpathentry path="C:\Users\ambi\.ivy2\cache\com.typesafe.akka\akka-actor\jars\akka-actor-2.0.4.jar" kind="lib"></classpathentry>
+  <classpathentry path="C:\Users\ambi\.ivy2\cache\com.typesafe\config\bundles\config-0.3.1.jar" kind="lib"></classpathentry>
   <classpathentry path="org.eclipse.jdt.launching.JRE_CONTAINER" kind="con"></classpathentry>
   <classpathentry path="bin" kind="output"></classpathentry>
 </classpath>
