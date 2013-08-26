@@ -1,4 +1,4 @@
-name := "scala-design-pattern"
+name := "scala-design-patterns"
 
 version := "1.0"
 
